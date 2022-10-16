@@ -3,13 +3,19 @@
 //M = 1; N = 15 -> 120
 //M = 4; N = 8. -> 30
 
-int m = 1;
-int n = 15;
-int a = 0;
 
-while (m<=n)
+
+int sum = 0;
+
+void RecSum(int M, int N)
 {
-    a = a + m;
-    m++;
+    if (M > N)
+    {
+        return;
+    }
+    sum += M;
+    RecSum(M + 1, N);
 }
-Console.WriteLine(a);
+
+RecSum(1, 15);
+Console.WriteLine(sum);

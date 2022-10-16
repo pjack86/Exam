@@ -7,7 +7,7 @@ class Program
 {
   static void Foo (int i)
   {
-    Console.WriteLine(i);
+    Console.Write(i);
     if (i <= 1)
     return;
     

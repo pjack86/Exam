@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam002\\Exam002.csproj": {}
+    "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam\\Exam002\\Exam002.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam002\\Exam002.csproj": {
+    "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam\\Exam002\\Exam002.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam002\\Exam002.csproj",
+        "projectUniqueName": "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam\\Exam002\\Exam002.csproj",
         "projectName": "Exam002",
-        "projectPath": "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam002\\Exam002.csproj",
+        "projectPath": "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam\\Exam002\\Exam002.csproj",
         "packagesPath": "C:\\Users\\pjack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam002\\obj\\",
+        "outputPath": "C:\\Users\\pjack\\OneDrive\\Рабочий стол\\Ex\\Exam\\Exam002\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pjack\\AppData\\Roaming\\NuGet\\NuGet.Config"
